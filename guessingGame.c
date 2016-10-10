@@ -49,7 +49,7 @@ int main(){
 		perfect = 0;
 	} while (c == 'y' || c == 'Y');
 	printf("Thanks For Playing!");
-	return0;
+	return 0;
 }
 		
 		
